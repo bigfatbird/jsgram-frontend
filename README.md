@@ -1,1 +1,1 @@
-# Frontend for a JS Youtube Clone, written in React
+# Frontend for a JS Insta Clone, written in React
